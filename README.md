@@ -1,0 +1,1 @@
+I wanted a tool to easily convert RGB15 values to hex and vice versa. So I made one.
